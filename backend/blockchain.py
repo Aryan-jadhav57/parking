@@ -14,7 +14,7 @@ def create_block(index, timestamp, data, previous_hash):
     }
     return block
 
-def get_chain():
+def get_chain(): 
     return chain
 
 def add_block(data):
